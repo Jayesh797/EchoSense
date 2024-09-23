@@ -46,7 +46,7 @@
               <img src="images/spectrogram.png" alt="Waveplot for Fear Emotion" width="700" height="200"/>
               </div>
               <div align="center">
-              <p><i>Fig-1: Spectrogram for Fear Emotion</i></p>
+              <p><i>Fig-3: Spectrogram for Fear Emotion</i></p>
               </div>              
             </ul>
         </li>
@@ -90,7 +90,7 @@
 <div>
     <h2>Future Scope</h2>
               <div align="center">
-              <img src="images/final_vs_actual2.png" alt="final_vs_actual" width="600" height="600"/>
+              <img src="images/final_vs_actual2.png" alt="final_vs_actual" width="300" height="300"/>
               </div>
               <div align="center">
               <p><i>Fig-5: Predicted VS Actual</i></p>
