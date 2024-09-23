@@ -20,10 +20,15 @@
             <strong>2. Data Preparation</strong>
             <p>Data from multiple datasets is merged into a dataframe, storing emotion labels and file paths. This dataframe is then used to extract features for training the model.</p>
         </li>
-        <div style="text-align: center;">
-          <img src="images/model_emotions_final.png" alt="Alt text" width="500" height="400" style="display: block; margin: 0 auto;">
-          <p>Fig-Combined Emotions from Different Datasets</p>
-        </div>
+<li>
+    <strong>2. Data Preparation</strong>
+    <p>Data from multiple datasets is merged into a dataframe, storing emotion labels and file paths. This dataframe is then used to extract features for training the model.</p>
+</li>
+
+<div style="text-align: center;">
+    <img src="images/model_emotions_final.png" alt="Alt text" width="500" height="400" style="display: inline-block;">
+    <p style="display: inline-block;">Fig-Combined Emotions from Different Datasets</p>
+</div>
         <li>
             <strong>3. Data Visualization and Exploration</strong>
             <p>Visualize the distribution of emotions using bar charts. Waveplots and Spectrograms are also used to analyze audio signals:</p>
