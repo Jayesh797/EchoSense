@@ -35,7 +35,19 @@
             <p>Visualize the distribution of emotions using bar charts. Waveplots and Spectrograms are also used to analyze audio signals:</p>
             <ul>
                 <li><strong>Waveplots:</strong> Show loudness over time.</li>
+              <div align="center">
+              <img src="images/waveplot.png" alt="waveplot" width="600" height="300"/>
+              </div>
+              <div align="center">
+              <p><i>Fig-2: Waveplot for Fear Emotion</i></p>
+              </div>
                 <li><strong>Spectrograms:</strong> Represent the frequency spectrum over time.</li>
+              <div align="center">
+              <img src="images/spectrogram.png" alt="Waveplot for Fear Emotion" width="600" height="300"/>
+              </div>
+              <div align="center">
+              <p><i>Fig-1: Spectrogram for Fear Emotion</i></p>
+              </div>              
             </ul>
         </li>
         <li>
