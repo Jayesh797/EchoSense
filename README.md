@@ -36,14 +36,14 @@
             <ul>
                 <li><strong>Waveplots:</strong> Show loudness over time.</li>
               <div align="center">
-              <img src="images/waveplot.png" alt="waveplot" width="600" height="300"/>
+              <img src="images/waveplot.png" alt="waveplot" width="700" height="200"/>
               </div>
               <div align="center">
               <p><i>Fig-2: Waveplot for Fear Emotion</i></p>
               </div>
                 <li><strong>Spectrograms:</strong> Represent the frequency spectrum over time.</li>
               <div align="center">
-              <img src="images/spectrogram.png" alt="Waveplot for Fear Emotion" width="600" height="300"/>
+              <img src="images/spectrogram.png" alt="Waveplot for Fear Emotion" width="700" height="200"/>
               </div>
               <div align="center">
               <p><i>Fig-1: Spectrogram for Fear Emotion</i></p>
@@ -79,10 +79,22 @@
             <strong>7. Model Architecture</strong>
             <p>A CNN (Convolutional Neural Network) is built to classify emotions from speech.</p>
         </li>
+              <div align="center">
+              <img src="images/confusion_metrics_final.png" alt="confusion_metrics" width="600" height="600"/>
+              </div>
+              <div align="center">
+              <p><i>Fig-4: Confusion metrics</i></p>
+              </div>  
     </ul>
 
 <div>
     <h2>Future Scope</h2>
+              <div align="center">
+              <img src="images/final_vs_actual2.png" alt="final_vs_actual" width="600" height="600"/>
+              </div>
+              <div align="center">
+              <p><i>Fig-5: Predicted VS Actual</i></p>
+              </div>  
     <p>Future improvements and explorations for this project may include:</p>
     <ul>
         <li>Exploring additional datasets to enhance model accuracy.</li>
