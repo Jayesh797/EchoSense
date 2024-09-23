@@ -90,7 +90,7 @@
 <div>
     <h2>Future Scope</h2>
               <div align="center">
-              <img src="images/final_vs_actual2.png" alt="final_vs_actual" width="300" height="300"/>
+              <img src="images/final_vs_actual_final2.png.png" alt="final_vs_actual" width="800" height="400"/>
               </div>
               <div align="center">
               <p><i>Fig-5: Predicted VS Actual</i></p>
