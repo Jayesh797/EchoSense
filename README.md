@@ -58,6 +58,16 @@
             <p>A CNN (Convolutional Neural Network) is built to classify emotions from speech.</p>
         </li>
     </ul>
-</div>
 
+<div>
+    <h2>Future Scope</h2>
+    <p>Future improvements and explorations for this project may include:</p>
+    <ul>
+        <li>Exploring additional datasets to enhance model accuracy.</li>
+        <li>Implementing more advanced feature extraction techniques.</li>
+        <li>Testing various architectures of deep learning models to improve classification performance.</li>
+        <li>Integrating real-time emotion detection in applications such as educational tools and therapy.</li>
+        <li>Conducting user studies to assess the practical applications and effectiveness of the model.</li>
+    </ul>
+</div>
 <hr>
